@@ -319,7 +319,7 @@ int main(int argc, char** argv){
 	glutInitDisplayMode (GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
 	glutInitWindowSize (1000, 800); 
 	glutInitWindowPosition (0, 0);
-	glutCreateWindow ("Erik Paluka - Advanced Computer Graphics - Assignment 3");
+	glutCreateWindow ("Erik Paluka");
 	
 	fieldOfView = 45;
 	eyeX = 250;
